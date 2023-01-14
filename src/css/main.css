@@ -1,0 +1,10 @@
+body
+{
+    background: #116396;
+}
+.container-fluid
+{
+    width: 400px;
+    margin: 60px auto;
+    padding: 10px;
+}

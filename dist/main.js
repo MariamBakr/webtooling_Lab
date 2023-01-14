@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector("#cityinput");var e=document.querySelector("#add");document.querySelector("#cityoutput"),document.querySelector("#description"),document.querySelector("#temp"),document.querySelector("#wind"),e.addEventListener("click",Do)})();
